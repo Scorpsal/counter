@@ -1,0 +1,101 @@
+#clicks{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5vw;
+    position: relative;
+    left: 55.5vw;
+    top: -17vw;
+}
+
+body{
+    background-color: black;
+    width: 40vw;
+}
+
+#button{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5vw;
+    position: relative;
+    left: 10vw;
+    top: 37vw;
+}
+#reset{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5vw;
+    text-align: center;
+    position: relative;
+    left: 40vw;
+    top: 31vw;
+}
+#buy{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5vw;
+    position: relative;
+    left: 45vw;
+    top: 31vw;
+
+}
+#number{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5vw;
+    position: relative;
+    left: 55vw;
+    top: -16.5vw;
+}
+#number_heading{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4.38vw;
+    position: relative;
+    left: 35.5vw;
+    top: 7vw;
+}
+#multiply_heading{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4.38vw;
+    position: relative;
+    left: 25vw;
+    top: 5vw;
+}
+#button:hover{
+    background-color: white;
+    color: black;
+}
+#buy:hover{
+    background-color: white;
+    color: black;
+}
+#reset:hover{
+    background-color: white;
+    color: black;
+}
+#button:active{
+    background-color: white;
+    color: white;
+}
+#reset:active{
+    background-color: white;
+    color: white;
+}
+#buy:active{
+    background-color: white;
+    color: white;
+}
+#numberontopbuy{
+    color: greenyellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4.38vw;
+    transform: rotate(30deg);
+    position: relative;
+    left: 78vw;
+    top: 11vw;
+}
